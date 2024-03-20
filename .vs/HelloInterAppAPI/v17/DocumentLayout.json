@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EnverPO\\source\\repos\\HelloInterAppAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD175A8-5D70-4A4E-9C61-7FE21E0F472F}|HelloInterAppAPI\\ConnectorAPI.SkylineCommunications.HelloInterAppCalls.csproj|c:\\users\\enverpo\\source\\repos\\hellointerappapi\\hellointerappapi\\connectorapi.skylinecommunications.hellointerappcalls.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FCD175A8-5D70-4A4E-9C61-7FE21E0F472F}|HelloInterAppAPI\\ConnectorAPI.SkylineCommunications.HelloInterAppCalls.csproj|solutionrelative:hellointerappapi\\connectorapi.skylinecommunications.hellointerappcalls.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD175A8-5D70-4A4E-9C61-7FE21E0F472F}|HelloInterAppAPI\\ConnectorAPI.SkylineCommunications.HelloInterAppCalls.csproj|c:\\users\\enverpo\\source\\repos\\hellointerappapi\\hellointerappapi\\iinterappelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD175A8-5D70-4A4E-9C61-7FE21E0F472F}|HelloInterAppAPI\\ConnectorAPI.SkylineCommunications.HelloInterAppCalls.csproj|solutionrelative:hellointerappapi\\iinterappelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD175A8-5D70-4A4E-9C61-7FE21E0F472F}|HelloInterAppAPI\\ConnectorAPI.SkylineCommunications.HelloInterAppCalls.csproj|c:\\users\\enverpo\\source\\repos\\hellointerappapi\\hellointerappapi\\hellointerappcalls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD175A8-5D70-4A4E-9C61-7FE21E0F472F}|HelloInterAppAPI\\ConnectorAPI.SkylineCommunications.HelloInterAppCalls.csproj|solutionrelative:hellointerappapi\\hellointerappcalls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD175A8-5D70-4A4E-9C61-7FE21E0F472F}|HelloInterAppAPI\\ConnectorAPI.SkylineCommunications.HelloInterAppCalls.csproj|c:\\users\\enverpo\\source\\repos\\hellointerappapi\\hellointerappapi\\interappmessages\\mytable\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD175A8-5D70-4A4E-9C61-7FE21E0F472F}|HelloInterAppAPI\\ConnectorAPI.SkylineCommunications.HelloInterAppCalls.csproj|solutionrelative:hellointerappapi\\interappmessages\\mytable\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD175A8-5D70-4A4E-9C61-7FE21E0F472F}|HelloInterAppAPI\\ConnectorAPI.SkylineCommunications.HelloInterAppCalls.csproj|c:\\users\\enverpo\\source\\repos\\hellointerappapi\\hellointerappapi\\interappmessages\\mytable\\mytabledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD175A8-5D70-4A4E-9C61-7FE21E0F472F}|HelloInterAppAPI\\ConnectorAPI.SkylineCommunications.HelloInterAppCalls.csproj|solutionrelative:hellointerappapi\\interappmessages\\mytable\\mytabledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD175A8-5D70-4A4E-9C61-7FE21E0F472F}|HelloInterAppAPI\\ConnectorAPI.SkylineCommunications.HelloInterAppCalls.csproj|c:\\users\\enverpo\\source\\repos\\hellointerappapi\\hellointerappapi\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD175A8-5D70-4A4E-9C61-7FE21E0F472F}|HelloInterAppAPI\\ConnectorAPI.SkylineCommunications.HelloInterAppCalls.csproj|solutionrelative:hellointerappapi\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD175A8-5D70-4A4E-9C61-7FE21E0F472F}|HelloInterAppAPI\\ConnectorAPI.SkylineCommunications.HelloInterAppCalls.csproj|c:\\users\\enverpo\\source\\repos\\hellointerappapi\\hellointerappapi\\interappmessages\\knowntypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD175A8-5D70-4A4E-9C61-7FE21E0F472F}|HelloInterAppAPI\\ConnectorAPI.SkylineCommunications.HelloInterAppCalls.csproj|solutionrelative:hellointerappapi\\interappmessages\\knowntypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\EnverPO\\source\\repos\\HelloInterAppAPI\\HelloInterAppAPI\\InterAppMessages\\MyTable\\Messages.cs",
+              "RelativeDocumentMoniker": "HelloInterAppAPI\\InterAppMessages\\MyTable\\Messages.cs",
+              "ToolTip": "C:\\Users\\EnverPO\\source\\repos\\HelloInterAppAPI\\HelloInterAppAPI\\InterAppMessages\\MyTable\\Messages.cs",
+              "RelativeToolTip": "HelloInterAppAPI\\InterAppMessages\\MyTable\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T14:53:03.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyTableData.cs",
+              "DocumentMoniker": "C:\\Users\\EnverPO\\source\\repos\\HelloInterAppAPI\\HelloInterAppAPI\\InterAppMessages\\MyTable\\MyTableData.cs",
+              "RelativeDocumentMoniker": "HelloInterAppAPI\\InterAppMessages\\MyTable\\MyTableData.cs",
+              "ToolTip": "C:\\Users\\EnverPO\\source\\repos\\HelloInterAppAPI\\HelloInterAppAPI\\InterAppMessages\\MyTable\\MyTableData.cs",
+              "RelativeToolTip": "HelloInterAppAPI\\InterAppMessages\\MyTable\\MyTableData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:41:47.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KnownTypes.cs",
+              "DocumentMoniker": "C:\\Users\\EnverPO\\source\\repos\\HelloInterAppAPI\\HelloInterAppAPI\\InterAppMessages\\KnownTypes.cs",
+              "RelativeDocumentMoniker": "HelloInterAppAPI\\InterAppMessages\\KnownTypes.cs",
+              "ToolTip": "C:\\Users\\EnverPO\\source\\repos\\HelloInterAppAPI\\HelloInterAppAPI\\InterAppMessages\\KnownTypes.cs",
+              "RelativeToolTip": "HelloInterAppAPI\\InterAppMessages\\KnownTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:03:14.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectorAPI.SkylineCommunications.HelloInterAppCalls.csproj",
+              "DocumentMoniker": "C:\\Users\\EnverPO\\source\\repos\\HelloInterAppAPI\\HelloInterAppAPI\\ConnectorAPI.SkylineCommunications.HelloInterAppCalls.csproj",
+              "RelativeDocumentMoniker": "HelloInterAppAPI\\ConnectorAPI.SkylineCommunications.HelloInterAppCalls.csproj",
+              "ToolTip": "C:\\Users\\EnverPO\\source\\repos\\HelloInterAppAPI\\HelloInterAppAPI\\ConnectorAPI.SkylineCommunications.HelloInterAppCalls.csproj",
+              "RelativeToolTip": "HelloInterAppAPI\\ConnectorAPI.SkylineCommunications.HelloInterAppCalls.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-19T11:21:53.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\EnverPO\\source\\repos\\HelloInterAppAPI\\HelloInterAppAPI\\Constants.cs",
+              "RelativeDocumentMoniker": "HelloInterAppAPI\\Constants.cs",
+              "ToolTip": "C:\\Users\\EnverPO\\source\\repos\\HelloInterAppAPI\\HelloInterAppAPI\\Constants.cs",
+              "RelativeToolTip": "HelloInterAppAPI\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T11:48:08.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloInterAppCalls.cs",
+              "DocumentMoniker": "C:\\Users\\EnverPO\\source\\repos\\HelloInterAppAPI\\HelloInterAppAPI\\HelloInterAppCalls.cs",
+              "RelativeDocumentMoniker": "HelloInterAppAPI\\HelloInterAppCalls.cs",
+              "ToolTip": "C:\\Users\\EnverPO\\source\\repos\\HelloInterAppAPI\\HelloInterAppAPI\\HelloInterAppCalls.cs",
+              "RelativeToolTip": "HelloInterAppAPI\\HelloInterAppCalls.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T11:26:30.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IInterAppElement.cs",
+              "DocumentMoniker": "C:\\Users\\EnverPO\\source\\repos\\HelloInterAppAPI\\HelloInterAppAPI\\IInterAppElement.cs",
+              "RelativeDocumentMoniker": "HelloInterAppAPI\\IInterAppElement.cs",
+              "ToolTip": "C:\\Users\\EnverPO\\source\\repos\\HelloInterAppAPI\\HelloInterAppAPI\\IInterAppElement.cs",
+              "RelativeToolTip": "HelloInterAppAPI\\IInterAppElement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T11:22:20.562Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Skyline.DataMiner.ConnectorAPI.SkylineCommunications.HelloInterAppCalls</id>
+    <version>1.0.1</version>
+    <title>Hello Inter App Calls</title>
+    <authors>Enver Podgorcevic</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>Icon.png</icon>
+    <readme>README.md</readme>
+    <projectUrl>https://skyline.be/</projectUrl>
+    <description>Package Description</description>
+    <tags>Skyline DataMiner</tags>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Skyline.DataMiner.Core.DataMinerSystem.Common" version="1.1.1.6" exclude="Build,Analyzers" />
+        <dependency id="Skyline.DataMiner.Core.InterAppCalls.Common" version="1.0.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\EnverPO\source\repos\HelloInterAppAPI\HelloInterAppAPI\bin\Debug\netstandard2.0\Skyline.DataMiner.ConnectorAPI.SkylineCommunications.HelloInterAppCalls.dll" target="lib\netstandard2.0\Skyline.DataMiner.ConnectorAPI.SkylineCommunications.HelloInterAppCalls.dll" />
+    <file src="C:\Users\EnverPO\source\repos\HelloInterAppAPI\HelloInterAppAPI\bin\Debug\netstandard2.0\Skyline.DataMiner.ConnectorAPI.SkylineCommunications.HelloInterAppCalls.xml" target="lib\netstandard2.0\Skyline.DataMiner.ConnectorAPI.SkylineCommunications.HelloInterAppCalls.xml" />
+    <file src="C:\Users\EnverPO\source\repos\HelloInterAppAPI\HelloInterAppAPI\README.md" target="README.md" />
+    <file src="C:\Users\EnverPO\source\repos\HelloInterAppAPI\HelloInterAppAPI\LICENSE.txt" target="LICENSE.txt" />
+    <file src="C:\Users\EnverPO\source\repos\HelloInterAppAPI\HelloInterAppAPI\nuget\Icon.png" target="Icon.png" />
+  </files>
+</package>
