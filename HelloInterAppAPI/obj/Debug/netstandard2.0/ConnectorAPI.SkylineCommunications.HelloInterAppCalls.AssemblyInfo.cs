@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Skyline Communications")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+079c50ca30822f15c452bdae14059987c91e897c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Skyline.DataMiner.ConnectorAPI.SkylineCommunications.HelloInterAppCalls")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Skyline.DataMiner.ConnectorAPI.SkylineCommunications.HelloInterAppCalls")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]

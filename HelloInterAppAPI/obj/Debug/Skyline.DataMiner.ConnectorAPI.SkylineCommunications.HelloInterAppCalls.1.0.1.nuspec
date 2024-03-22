@@ -13,7 +13,7 @@
     <projectUrl>https://skyline.be/</projectUrl>
     <description>Package Description</description>
     <tags>Skyline DataMiner</tags>
-    <repository type="git" />
+    <repository type="git" commit="079c50ca30822f15c452bdae14059987c91e897c" />
     <dependencies>
       <group targetFramework=".NETStandard2.0">
         <dependency id="Skyline.DataMiner.Core.DataMinerSystem.Common" version="1.1.1.6" exclude="Build,Analyzers" />
